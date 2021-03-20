@@ -1,3 +1,9 @@
 h1 {
   font weight: normal;
 }
+h2 {
+  -moz-text-size-adjust: auto;
+}
+h3{
+  mask-clip: border-box;
+}
